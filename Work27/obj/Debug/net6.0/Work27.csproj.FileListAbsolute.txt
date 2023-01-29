@@ -1,0 +1,15 @@
+C:\Users\LO\Desktop\HomeWork4\Work27\bin\Debug\net6.0\Work27.exe
+C:\Users\LO\Desktop\HomeWork4\Work27\bin\Debug\net6.0\Work27.deps.json
+C:\Users\LO\Desktop\HomeWork4\Work27\bin\Debug\net6.0\Work27.runtimeconfig.json
+C:\Users\LO\Desktop\HomeWork4\Work27\bin\Debug\net6.0\Work27.dll
+C:\Users\LO\Desktop\HomeWork4\Work27\bin\Debug\net6.0\Work27.pdb
+C:\Users\LO\Desktop\HomeWork4\Work27\obj\Debug\net6.0\Work27.csproj.AssemblyReference.cache
+C:\Users\LO\Desktop\HomeWork4\Work27\obj\Debug\net6.0\Work27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LO\Desktop\HomeWork4\Work27\obj\Debug\net6.0\Work27.AssemblyInfoInputs.cache
+C:\Users\LO\Desktop\HomeWork4\Work27\obj\Debug\net6.0\Work27.AssemblyInfo.cs
+C:\Users\LO\Desktop\HomeWork4\Work27\obj\Debug\net6.0\Work27.csproj.CoreCompileInputs.cache
+C:\Users\LO\Desktop\HomeWork4\Work27\obj\Debug\net6.0\Work27.dll
+C:\Users\LO\Desktop\HomeWork4\Work27\obj\Debug\net6.0\refint\Work27.dll
+C:\Users\LO\Desktop\HomeWork4\Work27\obj\Debug\net6.0\Work27.pdb
+C:\Users\LO\Desktop\HomeWork4\Work27\obj\Debug\net6.0\Work27.genruntimeconfig.cache
+C:\Users\LO\Desktop\HomeWork4\Work27\obj\Debug\net6.0\ref\Work27.dll
