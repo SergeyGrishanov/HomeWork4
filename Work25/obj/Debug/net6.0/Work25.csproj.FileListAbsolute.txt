@@ -1,0 +1,15 @@
+C:\Users\LO\Desktop\HomeWork4\Work25\bin\Debug\net6.0\Work25.exe
+C:\Users\LO\Desktop\HomeWork4\Work25\bin\Debug\net6.0\Work25.deps.json
+C:\Users\LO\Desktop\HomeWork4\Work25\bin\Debug\net6.0\Work25.runtimeconfig.json
+C:\Users\LO\Desktop\HomeWork4\Work25\bin\Debug\net6.0\Work25.dll
+C:\Users\LO\Desktop\HomeWork4\Work25\bin\Debug\net6.0\Work25.pdb
+C:\Users\LO\Desktop\HomeWork4\Work25\obj\Debug\net6.0\Work25.csproj.AssemblyReference.cache
+C:\Users\LO\Desktop\HomeWork4\Work25\obj\Debug\net6.0\Work25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LO\Desktop\HomeWork4\Work25\obj\Debug\net6.0\Work25.AssemblyInfoInputs.cache
+C:\Users\LO\Desktop\HomeWork4\Work25\obj\Debug\net6.0\Work25.AssemblyInfo.cs
+C:\Users\LO\Desktop\HomeWork4\Work25\obj\Debug\net6.0\Work25.csproj.CoreCompileInputs.cache
+C:\Users\LO\Desktop\HomeWork4\Work25\obj\Debug\net6.0\Work25.dll
+C:\Users\LO\Desktop\HomeWork4\Work25\obj\Debug\net6.0\refint\Work25.dll
+C:\Users\LO\Desktop\HomeWork4\Work25\obj\Debug\net6.0\Work25.pdb
+C:\Users\LO\Desktop\HomeWork4\Work25\obj\Debug\net6.0\Work25.genruntimeconfig.cache
+C:\Users\LO\Desktop\HomeWork4\Work25\obj\Debug\net6.0\ref\Work25.dll
