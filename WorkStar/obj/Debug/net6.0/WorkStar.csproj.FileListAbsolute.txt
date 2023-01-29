@@ -1,0 +1,15 @@
+C:\Users\LO\Desktop\HomeWork4\WorkStar\bin\Debug\net6.0\WorkStar.exe
+C:\Users\LO\Desktop\HomeWork4\WorkStar\bin\Debug\net6.0\WorkStar.deps.json
+C:\Users\LO\Desktop\HomeWork4\WorkStar\bin\Debug\net6.0\WorkStar.runtimeconfig.json
+C:\Users\LO\Desktop\HomeWork4\WorkStar\bin\Debug\net6.0\WorkStar.dll
+C:\Users\LO\Desktop\HomeWork4\WorkStar\bin\Debug\net6.0\WorkStar.pdb
+C:\Users\LO\Desktop\HomeWork4\WorkStar\obj\Debug\net6.0\WorkStar.csproj.AssemblyReference.cache
+C:\Users\LO\Desktop\HomeWork4\WorkStar\obj\Debug\net6.0\WorkStar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LO\Desktop\HomeWork4\WorkStar\obj\Debug\net6.0\WorkStar.AssemblyInfoInputs.cache
+C:\Users\LO\Desktop\HomeWork4\WorkStar\obj\Debug\net6.0\WorkStar.AssemblyInfo.cs
+C:\Users\LO\Desktop\HomeWork4\WorkStar\obj\Debug\net6.0\WorkStar.csproj.CoreCompileInputs.cache
+C:\Users\LO\Desktop\HomeWork4\WorkStar\obj\Debug\net6.0\WorkStar.dll
+C:\Users\LO\Desktop\HomeWork4\WorkStar\obj\Debug\net6.0\refint\WorkStar.dll
+C:\Users\LO\Desktop\HomeWork4\WorkStar\obj\Debug\net6.0\WorkStar.pdb
+C:\Users\LO\Desktop\HomeWork4\WorkStar\obj\Debug\net6.0\WorkStar.genruntimeconfig.cache
+C:\Users\LO\Desktop\HomeWork4\WorkStar\obj\Debug\net6.0\ref\WorkStar.dll
